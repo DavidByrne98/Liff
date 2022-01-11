@@ -13,6 +13,8 @@ pip + (Hikari, Hikari-lightbulb, youtubedl, dotenv, uvloop{if on a unix-like sys
 ffmpeg
 Liff's Discord client key in a .env file on root with the token labelled 'KEY'
 
+python -m pip install -r requirements.txt
+
 Linux & Mac:
 
 ```sh
