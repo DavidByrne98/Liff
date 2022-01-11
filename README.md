@@ -46,11 +46,11 @@ Install ffmpeg
 
 ## Meta
 
-First Last – [@YourTwitter](https://twitter.com/dbader_org) – sampleemail@gmail.com
+David Byrne – [@YourTwitter](https://twitter.com/) – sampleemail@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/DavidByrne98/Liff](https://github.com/DavidByrne98/Liff)
 
 ## Contributing
 
