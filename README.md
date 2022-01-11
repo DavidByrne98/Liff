@@ -8,8 +8,9 @@ Some of its functions are as follows, maintain roles, play music, and provide si
 # Installation
 ## Prerequisites
 
-Python 3.8+
-pip + (Hikari, Hikari-lightbulb, youtubedl, dotenv, uvloop{if on a unix-like system})
+Python version >3.8
+pip
+pip packages - Hikari, Hikari-lightbulb, youtubedl, dotenv, uvloop{if on a unix-like system}
 ffmpeg
 Liff's Discord client key in a .env file on root with the token labelled 'KEY'
 
@@ -37,7 +38,8 @@ The bot can also play youtube songs once requested by using the '!play' command 
 ```sh
 Install git
 Install python (3.8+)
-	- pip + (Hikari, Hikari-lightbulb, uvloop, dotenv, youtubedl, pynacl packages)
+Install pip packages
+    Hikari, Hikari-lightbulb, uvloop, dotenv, youtubedl, pynacl
 Install ffmpeg
 ```
 
